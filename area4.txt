@@ -1,0 +1,5 @@
+10,
+up10,
+down10,
+left10,
+right10,

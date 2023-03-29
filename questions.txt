@@ -1,0 +1,11 @@
+l'orange,orange
+la pomme,apple
+la banane,banana
+le kiwi,kiwi
+la poire,pear
+l'ananas,pineapple
+le melon d'eau,watermelon
+la lime,lime
+le citron,lemon
+le raisin,grape
+la grenade,pomegranate

@@ -1,0 +1,5 @@
+I am PACMAN. Defeat me to get a video game controller.
+Yum!
+You can't run away from me!
+Your HP will soon be 0!
+You need to spend more time at the arcade!

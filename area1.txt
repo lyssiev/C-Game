@@ -1,0 +1,15 @@
+2,welcome to area 1! You have arrived in a greek city - look around and beware of enemies!
+up2,You look up to see the Mount Olympus towering above the city.
+right2,To your right, you see a bustling market. You hear people screaming about something to do with olives.
+down2,Wow, dirt floor. 
+left2,You see pretty statues of Gods and Goddesses all around.
+3,You entered the market, where your nose is filled with the scent of olive oil and spices.
+up3,It is bright and sweaty outside. You're glad you remebered your toga.
+left3,You see the time machine sitting in the middle of the road. You don't think anyone will notice.
+down3,You see an olive on the ground. There seem to be a lot of olives here. 
+right3,Someone asks you if you want to buy a piece of pottery. Unfortunately, you don't speak Ancient Greek. Or have any money.
+4,You arrive at Mount Olympus, and can smell the sweet smell of nectar.
+up4,Wow, clouds. It's almost as if you're at the top of a mountain.
+left4,You see other greek gods and goddesses having a party. You think about gatecrashing, but you don't want to seem rude.
+down4,The floor is covered in an an expensive gold mosaic. 
+right4,You see Zeus lying on the floor, defeated. 

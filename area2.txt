@@ -1,0 +1,10 @@
+5,You have travelled to a medieval castle. Look around for the King, and beware of enemies!
+up5,Light pours into the room from the stained-glass windows which decorate the walls. You can smell the fire from the kitchen burning from here.
+right5,Spider webs cover the frames of the paintings on the wall. The maids clearly don't come into this room often.
+down5,You see the creaky wooden floorboards you are standing on. As you look down at them, they creak.
+left5,You see carvings of deer heads on the wall. It makes you nervous, although you're not sure why.
+6,You enter the throne room, where you see two empty gold thrones in the centre of the room.
+up6,The chandeliers sparkle above you.
+left6,The King lies on the floor, defeated. You congratulate yourself on your incredible knowledge.
+down6,A luxurious red carpet covers these floors, making them a little less creaky.
+right6,A glass case, which used to contain the crown, now lies empty. 

@@ -1,0 +1,15 @@
+7,Welcome to area 3! You have somehow teleported to a video game world.
+up7,You see an endless stream of binary code surrounding the whole area above you for what seems to be an infinite length.
+right7,There seems to be a luminescent green rectangle. You assume it's a door to the next room.
+down7,The floor is covered in binary code too. You attempt to read some, however can't read past 0.
+left7,You see directions written on the wall. They say: Up, binary. Down, binary. Left, binary. Right, Pac-man.
+8,You walked through the rectangle and somehow appeared in a new room. 
+up8,The area above you was still filled with binary. 
+left8,The rectangle on the left seemed to just be a door back to the other room. Filled with binary.
+down8,Maybe if you repeat the numbers out loud you'll be able to read the binary. 0101000101001010100101010101001010101010010101010101001010101010100101010010101001010100000000010101010010101010100101010100101001010101010101001. Nevermind.
+right8,The door to the right has writing above it. 'Pac-man. Do not enter' it reads. You decide you are going to enter.
+9,Pac-man music blasts through the room. You take a second to dance before doing anything else.
+up9,You see little Pac-man circles. You stand on your tiptoes to try and reach it but unfortunately your mouth is not big enough to eat it.
+left9,The door back to the other room has scratches on it. You wonder how they got there.
+down9,Looking down, you realise you were standing on Pac-man. Oops.
+right9,010101001010101100101010100010100101110, the wall reads.
