@@ -1,10 +1,10 @@
-## C#-Game
+# C#-Game
 AQA Computer Science ALevel game, written in C#
 Grade: A*, 93%
 
 _This game was created for my ALevel Computer Science coursework, where I was asked to come up with a problem to solve or investigate that interests me. I chose to create a game to help students revise as I felt (as a tutor) written tests were not encouraging as much active participation as I wanted. The game is text-based and has music, dialogue and ASCII art to make it entertaining whilst still asking students questions that either a teacher or the students themselves could upload/write. This project demonstrated my skills in object oriented programming and project documentation, as shown in my writeup of my implementation of the software development lifecycle._
 
-# Requirements:
+## User Requirements:
 1. The user must be able to enter their own
 questions                                        
   i. Users can enter either by loading a text file                                     
